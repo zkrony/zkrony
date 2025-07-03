@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a senior developer with vast and proven experience in web development, DevOps, and Web design, utilizing Node.js, PHP, Laravel, React.js, MySQL, MSSQL, MongoDB, Bootstrap, JavaScript, AJAX, APIs, and many other technologies.
+ I am a senior developer with vast and proven experience in web development, DevOps[ AWS ECS, EC2, Lambda, S3, RDS], utilizing Node.js, PHP, Laravel, React.js, MySQL, MSSQL, MongoDB, Bootstrap, JavaScript, AJAX, APIs, and many other technologies.
 
 
 # 💻 Tech Stack:
