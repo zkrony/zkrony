@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a senior developer having vast and proven experience in web development and Web design using PHP, Laravel, React JS, Node JS, Bootstrap, PSD to HTML conversion, UX/UI, JavaScript, AJAX, APIs, many others.
+ I am a senior developer with vast and proven experience in web development, DevOps, and Web design, utilizing Node.js, PHP, Laravel, React.js, MySQL, MSSQL, MongoDB, Bootstrap, JavaScript, AJAX, APIs, and many other technologies.
 
 
 # 💻 Tech Stack:
